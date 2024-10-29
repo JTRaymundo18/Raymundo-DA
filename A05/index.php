@@ -64,7 +64,7 @@ $result = executeQuery($query);
                   ?></i>
                 </h5>
                 <p class="card-text" style="font-family: Arial">Contact me at <u><b>
-                 <?php echo $client["email"]?> </b></u> OR <u><b> <?php echo $client["phoneNumber"]?> </b></u>
+                 <?php echo $client["email"]?></b></u> OR <u><b> <?php echo $client["phoneNumber"]?></b></u>
                 </p>
 
                 <p class="card-text" style="font-family: Arial"> Did you know? My birthdate is on
